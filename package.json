@@ -1,0 +1,16 @@
+{
+  "name": "e2e-player",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/globalpocket/e2e-player.git",
+  "author": "globalpocket <tanaka@globalpocket.jp>",
+  "license": "Apache License 2.0",
+  "type": "module",
+  "dependencies": {
+    "@puppeteer/replay": "^0.1.2",
+    "fs-extra": "^10.1.0",
+    "mime-types": "^2.1.35",
+    "path": "^0.12.7",
+    "puppeteer": "^14.1.0"
+  }
+}
