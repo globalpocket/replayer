@@ -7,7 +7,7 @@
   "license": "Apache License 2.0",
   "type": "module",
   "dependencies": {
-    "@puppeteer/replay": "^0.1.2",
+    "@puppeteer/replay": "^0.2.0",
     "fs-extra": "^10.1.0",
     "mime-types": "^2.1.35",
     "path": "^0.12.7",
